@@ -1,0 +1,8 @@
+certifi==2026.4.22
+charset-normalizer==3.4.7
+idna==3.13
+polars==1.40.1
+polars-runtime-32==1.40.1
+pyarrow==24.0.0
+requests==2.33.1
+urllib3==2.6.3
